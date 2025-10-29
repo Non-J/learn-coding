@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1,
+    "name_th": "กรุงเทพมหานคร",
+    "name_en": "Bangkok",
+    "region": "Central"
+  },
+  {
+    "id": 2,
+    "name_th": "สมุทรปราการ",
+    "name_en": "Samut Prakan",
+    "region": "Central"
+  },
+  {
+    "id": 3,
+    "name_th": "นนทบุรี",
+    "name_en": "Nonthaburi",
+    "region": "Central"
+  },
+  {
+    "id": 4,
+    "name_th": "ปทุมธานี",
+    "name_en": "Pathum Thani",
+    "region": "Central"
+  },
+  {
+    "id": 5,
+    "name_th": "พระนครศรีอยุธยา",
+    "name_en": "Phra Nakhon Si Ayutthaya",
+    "region": "Central"
+  },
+  {
+    "id": 6,
+    "name_th": "อ่างทอง",
+    "name_en": "Ang Thong",
+    "region": "Central"
+  },
+  { "id": 7, "name_th": "ลพบุรี", "name_en": "Lopburi", "region": "Central" },
+  {
+    "id": 8,
+    "name_th": "สิงห์บุรี",
+    "name_en": "Sing Buri",
+    "region": "Central"
+  },
+  { "id": 9, "name_th": "ชัยนาท", "name_en": "Chai Nat", "region": "Central" },
+  {
+    "id": 10,
+    "name_th": "สระบุรี",
+    "name_en": "Saraburi",
+    "region": "Central"
+  },
+  { "id": 11, "name_th": "ชลบุรี", "name_en": "Chon Buri", "region": "East" },
+  { "id": 12, "name_th": "ระยอง", "name_en": "Rayong", "region": "East" },
+  {
+    "id": 13,
+    "name_th": "จันทบุรี",
+    "name_en": "Chanthaburi",
+    "region": "East"
+  },
+  { "id": 14, "name_th": "ตราด", "name_en": "Trat", "region": "East" },
+  {
+    "id": 15,
+    "name_th": "ฉะเชิงเทรา",
+    "name_en": "Chachoengsao",
+    "region": "East"
+  },
+  {
+    "id": 16,
+    "name_th": "ปราจีนบุรี",
+    "name_en": "Prachin Buri",
+    "region": "East"
+  },
+  {
+    "id": 17,
+    "name_th": "นครนายก",
+    "name_en": "Nakhon Nayok",
+    "region": "Central"
+  },
+  { "id": 18, "name_th": "สระแก้ว", "name_en": "Sa Kaeo", "region": "East" },
+  {
+    "id": 19,
+    "name_th": "นครราชสีมา",
+    "name_en": "Nakhon Ratchasima",
+    "region": "Northeast"
+  },
+  {
+    "id": 20,
+    "name_th": "บุรีรัมย์",
+    "name_en": "Buri Ram",
+    "region": "Northeast"
+  },
+  {
+    "id": 21,
+    "name_th": "สุรินทร์",
+    "name_en": "Surin",
+    "region": "Northeast"
+  },
+  {
+    "id": 22,
+    "name_th": "ศรีสะเกษ",
+    "name_en": "Si Sa Ket",
+    "region": "Northeast"
+  },
+  {
+    "id": 23,
+    "name_th": "อุบลราชธานี",
+    "name_en": "Ubon Ratchathani",
+    "region": "Northeast"
+  },
+  {
+    "id": 24,
+    "name_th": "ยโสธร",
+    "name_en": "Yasothon",
+    "region": "Northeast"
+  },
+  {
+    "id": 25,
+    "name_th": "ชัยภูมิ",
+    "name_en": "Chaiyaphum",
+    "region": "Northeast"
+  },
+  {
+    "id": 26,
+    "name_th": "อำนาจเจริญ",
+    "name_en": "Amnat Charoen",
+    "region": "Northeast"
+  },
+  {
+    "id": 27,
+    "name_th": "หนองบัวลำภู",
+    "name_en": "Nong Bua Lam Phu",
+    "region": "Northeast"
+  },
+  {
+    "id": 28,
+    "name_th": "ขอนแก่น",
+    "name_en": "Khon Kaen",
+    "region": "Northeast"
+  },
+  {
+    "id": 29,
+    "name_th": "อุดรธานี",
+    "name_en": "Udon Thani",
+    "region": "Northeast"
+  },
+  { "id": 30, "name_th": "เลย", "name_en": "Loei", "region": "Northeast" },
+  {
+    "id": 31,
+    "name_th": "หนองคาย",
+    "name_en": "Nong Khai",
+    "region": "Northeast"
+  },
+  {
+    "id": 32,
+    "name_th": "มหาสารคาม",
+    "name_en": "Maha Sarakham",
+    "region": "Northeast"
+  },
+  {
+    "id": 33,
+    "name_th": "ร้อยเอ็ด",
+    "name_en": "Roi Et",
+    "region": "Northeast"
+  },
+  {
+    "id": 34,
+    "name_th": "กาฬสินธุ์",
+    "name_en": "Kalasin",
+    "region": "Northeast"
+  },
+  {
+    "id": 35,
+    "name_th": "สกลนคร",
+    "name_en": "Sakon Nakhon",
+    "region": "Northeast"
+  },
+  {
+    "id": 36,
+    "name_th": "นครพนม",
+    "name_en": "Nakhon Phanom",
+    "region": "Northeast"
+  },
+  {
+    "id": 37,
+    "name_th": "มุกดาหาร",
+    "name_en": "Mukdahan",
+    "region": "Northeast"
+  },
+  {
+    "id": 38,
+    "name_th": "เชียงใหม่",
+    "name_en": "Chiang Mai",
+    "region": "North"
+  },
+  { "id": 39, "name_th": "ลำพูน", "name_en": "Lamphun", "region": "North" },
+  { "id": 40, "name_th": "ลำปาง", "name_en": "Lampang", "region": "North" },
+  {
+    "id": 41,
+    "name_th": "อุตรดิตถ์",
+    "name_en": "Uttaradit",
+    "region": "North"
+  },
+  { "id": 42, "name_th": "แพร่", "name_en": "Phrae", "region": "North" },
+  { "id": 43, "name_th": "น่าน", "name_en": "Nan", "region": "North" },
+  { "id": 44, "name_th": "พะเยา", "name_en": "Phayao", "region": "North" },
+  {
+    "id": 45,
+    "name_th": "เชียงราย",
+    "name_en": "Chiang Rai",
+    "region": "North"
+  },
+  {
+    "id": 46,
+    "name_th": "แม่ฮ่องสอน",
+    "name_en": "Mae Hong Son",
+    "region": "North"
+  },
+  {
+    "id": 47,
+    "name_th": "นครสวรรค์",
+    "name_en": "Nakhon Sawan",
+    "region": "Central"
+  },
+  {
+    "id": 48,
+    "name_th": "อุทัยธานี",
+    "name_en": "Uthai Thani",
+    "region": "Central"
+  },
+  {
+    "id": 49,
+    "name_th": "กำแพงเพชร",
+    "name_en": "Kamphaeng Phet",
+    "region": "Central"
+  },
+  { "id": 50, "name_th": "ตาก", "name_en": "Tak", "region": "West" },
+  {
+    "id": 51,
+    "name_th": "สุโขทัย",
+    "name_en": "Sukhothai",
+    "region": "Central"
+  },
+  {
+    "id": 52,
+    "name_th": "พิษณุโลก",
+    "name_en": "Phitsanulok",
+    "region": "Central"
+  },
+  { "id": 53, "name_th": "พิจิตร", "name_en": "Phichit", "region": "Central" },
+  {
+    "id": 54,
+    "name_th": "เพชรบูรณ์",
+    "name_en": "Phetchabun",
+    "region": "Central"
+  },
+  { "id": 55, "name_th": "ราชบุรี", "name_en": "Ratchaburi", "region": "West" },
+  {
+    "id": 56,
+    "name_th": "กาญจนบุรี",
+    "name_en": "Kanchanaburi",
+    "region": "West"
+  },
+  {
+    "id": 57,
+    "name_th": "สุพรรณบุรี",
+    "name_en": "Suphan Buri",
+    "region": "Central"
+  },
+  {
+    "id": 58,
+    "name_th": "นครปฐม",
+    "name_en": "Nakhon Pathom",
+    "region": "Central"
+  },
+  {
+    "id": 59,
+    "name_th": "สมุทรสาคร",
+    "name_en": "Samut Sakhon",
+    "region": "Central"
+  },
+  {
+    "id": 60,
+    "name_th": "สมุทรสงคราม",
+    "name_en": "Samut Songkhram",
+    "region": "Central"
+  },
+  {
+    "id": 61,
+    "name_th": "เพชรบุรี",
+    "name_en": "Phetchaburi",
+    "region": "West"
+  },
+  {
+    "id": 62,
+    "name_th": "ประจวบคีรีขันธ์",
+    "name_en": "Prachuap Khiri Khan",
+    "region": "West"
+  },
+  {
+    "id": 63,
+    "name_th": "นครศรีธรรมราช",
+    "name_en": "Nakhon Si Thammarat",
+    "region": "South"
+  },
+  { "id": 64, "name_th": "กระบี่", "name_en": "Krabi", "region": "South" },
+  { "id": 65, "name_th": "พังงา", "name_en": "Phangnga", "region": "South" },
+  { "id": 66, "name_th": "ภูเก็ต", "name_en": "Phuket", "region": "South" },
+  {
+    "id": 67,
+    "name_th": "สุราษฎร์ธานี",
+    "name_en": "Surat Thani",
+    "region": "South"
+  },
+  { "id": 68, "name_th": "ระนอง", "name_en": "Ranong", "region": "South" },
+  { "id": 69, "name_th": "ชุมพร", "name_en": "Chumphon", "region": "South" },
+  { "id": 70, "name_th": "สงขลา", "name_en": "Songkhla", "region": "South" },
+  { "id": 71, "name_th": "สตูล", "name_en": "Satun", "region": "South" },
+  { "id": 72, "name_th": "ตรัง", "name_en": "Trang", "region": "South" },
+  {
+    "id": 73,
+    "name_th": "พัทลุง",
+    "name_en": "Phatthalung",
+    "region": "South"
+  },
+  { "id": 74, "name_th": "ปัตตานี", "name_en": "Pattani", "region": "South" },
+  { "id": 75, "name_th": "ยะลา", "name_en": "Yala", "region": "South" },
+  {
+    "id": 76,
+    "name_th": "นราธิวาส",
+    "name_en": "Narathiwat",
+    "region": "South"
+  },
+  {
+    "id": 77,
+    "name_th": "บึงกาฬ",
+    "name_en": "Bueng Kan",
+    "region": "Northeast"
+  }
+]

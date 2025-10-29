@@ -1,0 +1,26 @@
+services:
+  db:
+    image: mysql:latest
+    volumes:
+      - db-storage:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: password123
+      MYSQL_DATABASE: DATABASE
+    ports:
+      - 127.0.0.1:23306:3306
+    # labels:
+    #   - "traefik.enable=true"
+    #   - "traefik.tcp.routers.mysql-practice-db-tcp.entrypoints=db"
+    #   - "traefik.tcp.routers.mysql-practice-db-tcp.rule=HostSNI(`mysql-practice-db.docchula.com`)"
+    #   - "traefik.tcp.routers.mysql-practice-db-tcp.tls=true"
+    #   - "traefik.tcp.routers.mysql-practice-db-tcp.tls.certresolver=leresolver"
+    #   - "traefik.tcp.routers.mysql-practice-db-tcp.tls.domains[0].main=mysql-practice-db.docchula.com"
+    #   - "traefik.tcp.services.mysql-practice-db.loadbalancer.server.port=3306"
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: '1'
+    #       memory: 1G
+
+volumes:
+  db-storage:
